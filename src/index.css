@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ 
+body{
+
+  background: url('./assets/img/body.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  width: 80%;
+  margin: auto;
+} 
